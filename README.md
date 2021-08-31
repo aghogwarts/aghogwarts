@@ -1,4 +1,4 @@
-### Hi there ![test](/assets/pandapopcor.png)
+### Hi there ![test](/assets/pandapopcorn.png)
 
 <!--
 **aghogwarts/aghogwarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
