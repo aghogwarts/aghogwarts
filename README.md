@@ -17,3 +17,7 @@ Programming Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aghogwarts&count_private=true&show_icons=true&theme=algolia&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghogwarts&layout=compact&theme=algolia&hide_border=true)
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
