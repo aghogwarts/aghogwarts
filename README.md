@@ -2,6 +2,6 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aghogwarts&count_private=true&show_icons=true&theme=algoliahide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aghogwarts&count_private=true&show_icons=true&theme=algolia&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghogwarts&layout=compact&theme=algoliahide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghogwarts&layout=compact&theme=algolia&hide_border=true)
