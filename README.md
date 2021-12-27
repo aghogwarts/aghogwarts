@@ -18,6 +18,6 @@ Programming Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghogwarts&layout=compact&theme=algolia&hide_border=true)
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://discordapp.com/users/760426797418151937/">
+  <img align="left" alt="Ansh Goyal | Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
