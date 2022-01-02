@@ -14,7 +14,7 @@ I am Ansh Goyal, currently a high school student who is preparing to pursue Engi
 Programming Stats
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=agogwarts&count_private=true&show_icons=true&theme=algolia&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aghogwarts&count_private=true&show_icons=true&theme=algolia&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghogwarts&layout=compact&theme=algolia&hide_border=true)
 
