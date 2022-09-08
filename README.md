@@ -2,7 +2,7 @@
 ---
 <br>
 
-I am Ansh Goyal, currently a high school student who is preparing to pursue Engineering in Computer Sciences.
+I am Ansh Goyal, currently a Undergrad student pursuing Computer Engineering at Manipal Institute of Technology, Manipal
 
 - Own and develop multiple Discord Bots with unique features for servers that I like.
 - Love vibing to music, reading Novels and anything about Tech
