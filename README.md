@@ -6,8 +6,9 @@ I am Ansh Goyal, currently a Undergrad student pursuing Computer Engineering at 
 
 - Own and develop multiple Discord Bots with unique features for servers that I like.
 - Love vibing to music, reading Novels and anything about Tech
-- Can seemslessly work with Python and have learnt basic Web Development in school
-- Got the hang of various Databases while I was working with my Discord Bot
+- Can seemslessly work with Python and Web Development
+- Got the hang of various Databases Management Systems (SQL,No-SQL.etc) while I was working with my Discord Bot
+- Additional technical skills - git version control, C/C++
 
 <br>
 
