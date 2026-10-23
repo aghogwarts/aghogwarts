@@ -1,4 +1,4 @@
- Hi there ![pandapopcorn](/assets/pandapopcorn.png)
+ Hi there
 ---
 <br>
 
