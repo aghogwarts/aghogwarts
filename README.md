@@ -6,13 +6,6 @@ placeholder lol
 
 <br>
 
-Programming Stats
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aghogwarts&count_private=true&show_icons=true&theme=algolia&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aghogwarts&theme=algolia&hide_border=true)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghogwarts&layout=compact&theme=algolia&hide_border=true)
 
 Connect with me on
